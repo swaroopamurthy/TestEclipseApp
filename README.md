@@ -1,4 +1,5 @@
 TestEclipseApp
 ==============
 
-test application
+Hi there,
+This is a test application!!!
